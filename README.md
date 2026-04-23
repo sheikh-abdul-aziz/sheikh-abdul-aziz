@@ -1,4 +1,4 @@
-# Greetings. I am Sheikh Abdul Aziz.
+# Hello. I am Sheikh Abdul Aziz.
 
 A multidisciplinary Android and Web Developer, UI/UX Designer, Researcher, and Entrepreneur based in India. I am dedicated to bridging the gap between elegant, user-centered design and robust software engineering, with a strong focus on innovation and technology-driven solutions.
 
@@ -7,7 +7,7 @@ A multidisciplinary Android and Web Developer, UI/UX Designer, Researcher, and E
 ## 🔭 Current Endeavors
 
 * **Raydient Studio:** Directing a remote-first design and frontend development agency, focusing on premium digital experiences.
-* **Miracle UI:** Engineering a comprehensive React component library featuring advanced responsive layout systems and curated animations strictly aligned with standard Tailwind CSS.
+* **Scaffold UI:** Engineering a comprehensive React component library featuring advanced responsive layout systems and curated animations strictly aligned with standard Tailwind CSS.
 * **Speed Metrics:** Developing a website performance analysis tool leveraging PageSpeed Insights APIs to effectively separate lab data from real-world user metrics.
 * **Android Libraries:** Building specialized tools such as the **Typewriter** code editor library and **Oebit-VFMS** (Virtual File Management System).
 
